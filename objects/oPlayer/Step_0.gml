@@ -54,5 +54,17 @@ if(y_speed < -40){
 // limit x and y speed KEEP THIS RIGHT BEFORE THE POSITION UPDATE ISTG
 
 
-x += x_speed //position update keep this at the end of the step
-y += y_speed
+if (place_meeting(x, y + y_speed, oBlock)) {
+    
+    while (!place_meeting(x, y + sign(y_speed), oBlock)) {
+        y += sign(y_speed);
+    }
+    
+    y_speed = 0;
+    can_jump = true;
+}
+else {
+    y += y_speed;
+}
+
+x += x_speed
