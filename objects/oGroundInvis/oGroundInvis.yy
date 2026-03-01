@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oBlock",
+  "%Name":"oGroundInvis",
   "eventList":[],
   "managed":true,
-  "name":"oBlock",
+  "name":"oGroundInvis",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oBlock",
+    "path":"objects/oBlock/oBlock.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,6 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":null,
-  "spriteMaskId":null,
-  "visible":false,
+  "spriteMaskId":{
+    "name":"sBlock",
+    "path":"sprites/sBlock/sBlock.yy",
+  },
+  "visible":true,
 }
