@@ -32,6 +32,7 @@
     {"id":{"name":"sBlahaj","path":"sprites/sBlahaj/sBlahaj.yy",},},
     {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"sTrapdoor","path":"sprites/sTrapdoor/sTrapdoor.yy",},},
   ],
   "resourceType":"GMProject",
