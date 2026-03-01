@@ -12,8 +12,10 @@ if (place_meeting(x, y, oBlahaj)) { //blahaj hit
 	global.lives -= 1
 	if (global.lives <= 0) {
 		global.lives = 0
+		room_goto(DeadScreen)
+	} else {
+		room_restart()
 	}
-	room_restart()
 }
 
 if (place_meeting(x, y, oIntern)) { //death
