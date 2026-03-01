@@ -35,6 +35,7 @@
     {"id":{"name":"BasementEntrance","path":"rooms/BasementEntrance/BasementEntrance.yy",},},
     {"id":{"name":"DeadScreen","path":"rooms/DeadScreen/DeadScreen.yy",},},
     {"id":{"name":"FirstBasement","path":"rooms/FirstBasement/FirstBasement.yy",},},
+    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
     {"id":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
     {"id":{"name":"ThirdBasement","path":"rooms/ThirdBasement/ThirdBasement.yy",},},
     {"id":{"name":"InternWalk1","path":"sequences/InternWalk1/InternWalk1.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"sIntern","path":"sprites/sIntern/sIntern.yy",},},
     {"id":{"name":"sOpenerBackground","path":"sprites/sOpenerBackground/sOpenerBackground.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"sTrapdoor","path":"sprites/sTrapdoor/sTrapdoor.yy",},},
   ],
@@ -56,6 +58,7 @@
     {"roomId":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
     {"roomId":{"name":"ThirdBasement","path":"rooms/ThirdBasement/ThirdBasement.yy",},},
     {"roomId":{"name":"DeadScreen","path":"rooms/DeadScreen/DeadScreen.yy",},},
+    {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
