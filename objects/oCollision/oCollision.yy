@@ -30,6 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":null,
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"sBlock",
+    "path":"sprites/sBlock/sBlock.yy",
+  },
   "visible":true,
 }

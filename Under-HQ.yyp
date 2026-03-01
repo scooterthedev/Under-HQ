@@ -45,9 +45,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
     {"roomId":{"name":"BasementEntrance","path":"rooms/BasementEntrance/BasementEntrance.yy",},},
     {"roomId":{"name":"FirstBasement","path":"rooms/FirstBasement/FirstBasement.yy",},},
+    {"roomId":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
