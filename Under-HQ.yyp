@@ -26,6 +26,7 @@
     {"id":{"name":"oBlahaj","path":"objects/oBlahaj/oBlahaj.yy",},},
     {"id":{"name":"oBlock","path":"objects/oBlock/oBlock.yy",},},
     {"id":{"name":"oCarboard_box","path":"objects/oCarboard_box/oCarboard_box.yy",},},
+    {"id":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},},
     {"id":{"name":"oGroundInvis","path":"objects/oGroundInvis/oGroundInvis.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"BasementEntrance","path":"rooms/BasementEntrance/BasementEntrance.yy",},},
