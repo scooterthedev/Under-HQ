@@ -8,7 +8,7 @@ if (place_meeting(x, y + 1, oBlock)){ // block collision
 	can_jump = false
 }
 
-if(place_meeting(x,y, oBlahaj)) { //death
+if(place_meeting(x,y, oBlahaj) or place_meeting(x,y,oIntern)) { //death
 	room_restart()
 }
 
