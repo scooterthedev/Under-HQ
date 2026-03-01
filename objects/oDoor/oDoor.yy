@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oCollision",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oDoor",
+  "eventList":[],
   "managed":true,
-  "name":"oCollision",
+  "name":"oDoor",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oProgression",
+    "path":"objects/oProgression/oProgression.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,10 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
-  "spriteMaskId":{
-    "name":"sBlock",
-    "path":"sprites/sBlock/sBlock.yy",
+  "spriteId":{
+    "name":"sDoor",
+    "path":"sprites/sDoor/sDoor.yy",
   },
+  "spriteMaskId":null,
   "visible":true,
 }
