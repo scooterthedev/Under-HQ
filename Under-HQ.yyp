@@ -34,6 +34,7 @@
     {"id":{"name":"BasementEntrance","path":"rooms/BasementEntrance/BasementEntrance.yy",},},
     {"id":{"name":"FirstBasement","path":"rooms/FirstBasement/FirstBasement.yy",},},
     {"id":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
+    {"id":{"name":"ThirdBasement","path":"rooms/ThirdBasement/ThirdBasement.yy",},},
     {"id":{"name":"InternWalk1","path":"sequences/InternWalk1/InternWalk1.yy",},},
     {"id":{"name":"sBlahaj","path":"sprites/sBlahaj/sBlahaj.yy",},},
     {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},},
@@ -50,6 +51,7 @@
     {"roomId":{"name":"BasementEntrance","path":"rooms/BasementEntrance/BasementEntrance.yy",},},
     {"roomId":{"name":"FirstBasement","path":"rooms/FirstBasement/FirstBasement.yy",},},
     {"roomId":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
+    {"roomId":{"name":"ThirdBasement","path":"rooms/ThirdBasement/ThirdBasement.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
