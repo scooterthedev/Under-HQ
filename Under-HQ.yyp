@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Trapdoor","folderPath":"folders/Sprites/Trapdoor.yy","name":"Trapdoor","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -30,6 +31,7 @@
     {"id":{"name":"sBlahaj","path":"sprites/sBlahaj/sBlahaj.yy",},},
     {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sTrapdoor","path":"sprites/sTrapdoor/sTrapdoor.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
