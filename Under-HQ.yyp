@@ -53,6 +53,7 @@
     {"roomId":{"name":"BasementEntrance","path":"rooms/BasementEntrance/BasementEntrance.yy",},},
     {"roomId":{"name":"FirstBasement","path":"rooms/FirstBasement/FirstBasement.yy",},},
     {"roomId":{"name":"SecondBasement","path":"rooms/SecondBasement/SecondBasement.yy",},},
+    {"roomId":{"name":"ThirdBasement","path":"rooms/ThirdBasement/ThirdBasement.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
