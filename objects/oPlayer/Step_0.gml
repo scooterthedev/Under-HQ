@@ -54,17 +54,4 @@ if(y_speed < -40){
 // limit x and y speed KEEP THIS RIGHT BEFORE THE POSITION UPDATE ISTG
 
 
-if (place_meeting(x, y + y_speed, oBlock)) {
-    
-    while (!place_meeting(x, y + sign(y_speed), oBlock)) {
-        y += sign(y_speed);
-    }
-    
-    y_speed = 0;
-    can_jump = true;
-}
-else {
-    y += y_speed;
-}
-
-x += x_speed
+move_and_collide(x_speed, y_speed, oBlock);
