@@ -36,6 +36,7 @@
     {"id":{"name":"InternWalk1","path":"sequences/InternWalk1/InternWalk1.yy",},},
     {"id":{"name":"sBlahaj","path":"sprites/sBlahaj/sBlahaj.yy",},},
     {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},},
+    {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sIntern","path":"sprites/sIntern/sIntern.yy",},},
     {"id":{"name":"sOpenerBackground","path":"sprites/sOpenerBackground/sOpenerBackground.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
